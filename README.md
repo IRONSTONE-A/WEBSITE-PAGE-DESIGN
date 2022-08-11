@@ -1,3 +1,12 @@
-# Website-Design
-I designed a website using SCSS and Grid, and a responsive structure was created without the need to add any media queries. I used @extend @mixin constructs to consolidate my SCSS knowledge. I worked on the columns with CSS Grid and created the design. You can see the preview of the site below.
-[Click Here to See All Page](https://ironstone-a.github.io/WEBSITE-PAGE-DESIGN/)
+# :point_right: [Click here to see on browser](https://ironstone-a.github.io/WEBSITE-PAGE-DESIGN/)
+
+### I used;
+  - <b>HTML</b>
+  - <b>CSS</b>
+  - <b>SASS</b>
+
+
+
+
+
+![Random User App](https://github.com/IRONSTONE-A/WEBSITE-PAGE-DESIGN/blob/master/img/web-%20design.gif)
